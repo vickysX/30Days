@@ -2,4 +2,6 @@
     <string name="app_name">30 Days</string>
 
     <string name="app_title">Visit Turin in 30 days!</string>
+
+    <string name="num_day">Day %s</string>
 </resources>
